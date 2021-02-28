@@ -2,7 +2,7 @@
 
 <h1> Convert Json Data from URL into C# Object Unity </h1>
 <h2> 4210181010_Ilham Jalu Prakosa </h2>
-<h2> Explaination About My Code : </h2>
+<h3> Explaination About My Code : </h3>
 <h3> to convert Json data into C# object i use a library called LitJson. <br>
   first, i made a class that which contains some variable that will be an object for Json data later.<br>
   then i use WWW to access url, after that i convert the json data to a C# object using LitJson function. <br>
